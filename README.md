@@ -1,4 +1,5 @@
 # Survey-forms
 Employee Survey Forms
-![image](https://user-images.githubusercontent.com/84678584/172832918-6bd8b209-eab0-40e9-b7c9-97d45080dc80.png)
+![image](https://user-images.githubusercontent.com/84678584/172833701-cd7e54da-18fb-4941-bfe7-5ca0a12713a8.png)
+
 
